@@ -1,0 +1,23 @@
+{
+  "name": "hello_world_node",
+  "version": "1.0.0",
+  "description": "* Teste para fazer deploy do projeto no Koyeb.com através do Github",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiobh/hello_world_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiobh/hello_world_node/issues"
+  },
+  "homepage": "https://github.com/fabiobh/hello_world_node#readme"
+}
