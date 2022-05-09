@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "* Teste para fazer deploy do projeto no Koyeb.com através do Github",
   "main": "app.js",
-  "dependencies": {},
+  "dependencies": {
+    "pm2": "^5.2.0"
+  },
   "devDependencies": {
     "express": "^4.18.0"
   },
